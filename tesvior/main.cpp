@@ -18,5 +18,7 @@ int main()
 
 	//GLFWwindow* window = glfwCreateWindow();
 
+	// I love you Ania <3
+
 	return 0;
 }
